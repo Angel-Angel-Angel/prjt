@@ -1,4 +1,4 @@
- git clone "insert the project here"
+ git clone "insert the project code link here"
  
  pip install -r requirements.txt
 
