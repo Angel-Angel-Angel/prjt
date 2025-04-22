@@ -1,4 +1,5 @@
- git clone "insert the project here"
+Clone if you haven't
+ git clone "git@github.com:Angel-Angel-Angel/prjt.git"
  
  pip install -r requirements.txt
 
